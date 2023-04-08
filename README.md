@@ -1,2 +1,2 @@
 # rl-minigrid
-trying out all of reinforcement learning on the minigrid environment
+trying out RL on the minigrid environment
